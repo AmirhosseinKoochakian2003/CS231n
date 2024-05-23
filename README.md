@@ -1,6 +1,6 @@
 # CS231n: Convolutional Neural Networks for Visual Recognition - Assignment Solutions
 
-This repository contains my solutions to the assignments of [CS231n : Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/2022/) course (Spring 2022).
+This repository contains my solutions to the assignments of [CS231n : Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/2022/) course offered by Stanford University (Spring 2022).
 
 
 ### Assignment 1
